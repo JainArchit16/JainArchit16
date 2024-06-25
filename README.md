@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Archit Jain and I'm a Web Developer, from Netaji Subhas University of Technology</h2>
+<h2 align="left">Hi 👋! My name is Archit Jain </h2>
 
 ###
 
@@ -6,6 +6,16 @@
 
 ###
 
+
+Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web developer with a passion for problem solving and learning new technologies. With expertise in modern technologies and a collaborative spirit, I thrive on turning my ideas into functional and visually appealing web applications.
+
+
+- 🚀 Working on multiple frontend and backend projects using MERN stack
+- 🧠 Currently Learning **React** with **Typescript**
+- 🤝 Open to collaborate on Full Stack Web Dev Projects
+
+<hr/>
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
