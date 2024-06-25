@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Archit Jain </h2>
+<h2 align="center">Hi 👋! My name is Archit Jain </h2>
 
 ###
 
@@ -11,11 +11,13 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 
 
 - 🚀 Working on multiple frontend and backend projects using MERN stack
-- 🧠 Currently Learning **React** with **Typescript**
+- 🧠 Currently Learning **NextJS** with **Typescript**
 - 🤝 Open to collaborate on Full Stack Web Dev Projects
 
-<hr/>
-  
+<br>
+
+<h2 align="left">⚙️ Languages and Tools</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -66,20 +68,23 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 
 ###
 
-<div align="left">
-  <a href="jainarchit1604@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/architjain16/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+
+<br>
+
+<h2 align="left">📊 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JainArchit16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JainArchit16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=JainArchit16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JainArchit16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+
+
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=JainArchit16&theme=github-dark-blue&hide_border=false&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainArchit16&layout=compact&theme=github_dark" alt="Top Languages" height="170px" />
+</p>
+  
 </div>
 
 ###
@@ -89,7 +94,22 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 </div>
 
 ###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JainArchit16/JainArchit16/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/JainArchit16/JainArchit16/output/snake.svg" alt="Snake animation" />
+###
+
+
+ <h2 align="left">📞 Contact Me </h2>
+ 
+<div align="center">
+  <a href="jainarchit1604@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/architjain16/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
