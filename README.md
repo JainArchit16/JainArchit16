@@ -12,7 +12,7 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 
 - 🚀 Working on multiple frontend and backend projects using MERN stack
 - 🧠 Currently Learning **NextJS** with **Typescript**
-- 🤝 Open to collaborate on Full Stack Web Dev Projects
+- 🤝 Open to collaborate on Full Stack Web Dev Project
 
 <br>
 
