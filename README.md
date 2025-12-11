@@ -100,9 +100,9 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, a full stack web develo
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/JainArchit16/count.svg?"  />
-</div>
+</div> -->
 
 ###
 <p align="center">
