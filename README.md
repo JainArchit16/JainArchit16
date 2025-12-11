@@ -92,7 +92,8 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, a full stack web develo
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=JainArchit16&theme=github-dark-blue&hide_border=false&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainArchit16&layout=compact&theme=github_dark" alt="Top Languages" height="170px" />
+  <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=JainArchit16&layout=compact&title_color=cba6f7&theme=github_dark"/></a>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainArchit16&layout=compact&theme=github_dark" alt="Top Languages" height="170px" /> -->
 </p>
   
 </div>
