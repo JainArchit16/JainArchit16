@@ -114,7 +114,7 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, a full stack web develo
  <h2 align="left">📞 Contact Me </h2>
  
 <div align="center">
-  <a href="jainarchit1604@gmail.com" target="_blank">
+  <a href="mailto:jainarchit1604@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/architjain16/" target="_blank">
